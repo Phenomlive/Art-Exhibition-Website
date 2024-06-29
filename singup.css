@@ -1,0 +1,11 @@
+.sign-main-body{
+    background-color: #fdedbc;
+    height:100%;
+    padding:0%;
+    margin: 0%;
+    width: 100%;
+    overflow-x: hidden;
+}
+.sign-main-body form{
+    margin-left: 40%;
+}
